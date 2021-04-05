@@ -4,6 +4,7 @@ import Project3 from "../../assets/img/projects/amazon.png";
 import Project4 from "../../assets/img/projects/ventureBeat.jpg";
 import Project5 from "../../assets/img/projects/weather.png";
 import Project6 from "../../assets/img/projects/student-database.png";
+import Project7 from "../../assets/img/projects/todo-app.png";
 import HTML5 from "../../assets/img/skills/html-5.svg";
 import CSS3 from "../../assets/img/skills/css3.svg";
 import SASS from "../../assets/img/skills/sass-1.svg";
@@ -85,6 +86,16 @@ export const projects = [
       EXPRESS,
       MONGODB,
     ],
+  },
+
+  {
+    project_name: "Todo Application",
+    project_image: Project7,
+    Project_description:
+      "A basic todo application where user can add, edit, delete Tasks.Technologies used are ReactJS, MaterialUI, Redux",
+    github_link: "https://github.com/faizitguy/todo-app",
+    deployed_link: "https://friendly-easley-8572ad.netlify.app/",
+    technologies: [HTML5, CSS3, JAVASCRIPT, REACT, MATERIALUI, REDUX],
   },
 
   {
