@@ -3,6 +3,7 @@ import Project2 from "../../assets/img/projects/rememberTheMilk.png";
 import Project3 from "../../assets/img/projects/amazon.png";
 import Project4 from "../../assets/img/projects/ventureBeat.jpg";
 import Project5 from "../../assets/img/projects/weather.png";
+import Project6 from "../../assets/img/projects/student-database.png";
 import HTML5 from "../../assets/img/skills/html-5.svg";
 import CSS3 from "../../assets/img/skills/css3.svg";
 import SASS from "../../assets/img/skills/sass-1.svg";
@@ -67,6 +68,25 @@ export const projects = [
       "https://drive.google.com/file/d/1TO9um9tHYnPLtMGEj0Lg2vyIP9Ea6O26/view?usp=sharing",
     technologies: [HTML5, CSS3, JAVASCRIPT, REACT, MATERIALUI],
   },
+  {
+    project_name: " MERN Student Database",
+    project_image: Project6,
+    Project_description:
+      "Developed Full Stack MERN student database application where we can add, edit, delete students. Used nodejs, expressjs and mongoDB in the backend",
+    github_link: "https://github.com/faizitguy/student-database",
+    deployed_link:
+      "https://drive.google.com/file/d/1fndDOeI-J9qzhdqlsxKoCvc_nic0CWMV/view",
+    technologies: [
+      CSS3,
+      JAVASCRIPT,
+      REACT,
+      MATERIALUI,
+      NODE_JS,
+      EXPRESS,
+      MONGODB,
+    ],
+  },
+
   {
     project_name: "Weather API",
     project_image: Project5,
