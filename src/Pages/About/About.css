@@ -108,6 +108,9 @@
 }
 
 @media (max-width: 750px) {
+  .about-section {
+    margin-top: 120px;
+  }
   .row {
     flex-direction: column;
   }
@@ -118,6 +121,8 @@
     max-width: 100% !important;
   }
   .about-desc {
+    display: flex;
+    flex-direction: column;
   }
   .about-desc-span {
     margin-left: 5px;
