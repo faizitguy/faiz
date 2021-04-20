@@ -17,17 +17,17 @@ function App() {
   return (
     <div className="App">
       <Nav />
-      <div
-        style={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          width: "100%",
-          height: "100%",
-          background: "rgb(46,50,81)",
-        }}
-      >
-        <Particles />
+      <div>
+        <Particles
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            background: "rgb(46,50,81)",
+          }}
+        />
       </div>
       <Home />
       <div>
