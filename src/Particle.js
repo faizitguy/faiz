@@ -72,8 +72,8 @@ let params = {
       out_mode: "bounce",
       bounce: false,
       attract: {
-        enable: false,
-        rotateX: 600,
+        enable: true,
+        rotateX: 800,
         rotateY: 1200,
       },
     },
@@ -93,7 +93,7 @@ let params = {
     },
     modes: {
       grab: {
-        distance: 400,
+        distance: 450,
         line_linked: {
           opacity: 1,
         },
