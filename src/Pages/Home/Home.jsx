@@ -4,7 +4,6 @@ import ProfilePic from '../../images/faiz_profile2.png'
 import TitleMessage from './Title'
 import Nav from "react-bootstrap/Nav";
 import Particle from '../../Particle'
-import {Link} from 'react-router-dom'
 
 function Home() {
     return (
