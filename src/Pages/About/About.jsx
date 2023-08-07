@@ -30,7 +30,13 @@ function About() {
                        <div className  = "about-info">
                            <p>
                                <h6>Hi! My name is Faiz Ahmed Khan </h6>
-                               Aspiring Full Stack Developer, Capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, Express, and MongoDB on the backend to build single-page applications. Efficient team manager with experience in handling a team. Very Passionate about coding and strongly interested in working in a product-based company.
+                                I've got more than 3 years of solid experience as a Software Developer. I'm all about making things happen on the frontend with ReactJS,  and Redux, and I can dive into the backend too – working with NodeJS, Express, and MongoDB.
+
+                                The whole software development journey is my playground – from sketching out ideas and designing to rolling up my sleeves and crafting robust applications that actually work.
+
+                                When challenges pop up, I'm your go-to problem solver. At Edstem Technologies, I've cooked up entire web apps using React, did code reviews, and even trained a bunch of awesome devs.
+
+                                You've gotta check out some of the cool projects I've nailed,  Please Check out my playground :)
                            </p>
                            <div className ="about-desc">
                             <div className = "about-desc-icon"> <CallIcon/>
